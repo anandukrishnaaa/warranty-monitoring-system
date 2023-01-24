@@ -21,5 +21,22 @@ and eventually solve the issue, if the product is within the given warranty peri
 The main aim of this project is to facilitate warranty claim at e-commerce level more 
 accessible and easier, for both the manufacturer and the end-user. The system enables 
 users to easily check their products against its warranty period, claim warranty and even 
-extend warranties. This system, if enforce and utilized to it’s full potential can truly be a 
+extend warranties. This system, if enforced and utilized to it’s full potential can truly be a 
 harbinger of positive change, at all levels.
+
+Warranty monitoring system is used by manufacturers to handle and manage processes 
+associated with product warranties and claim processing. This system can handle
+operations from both the ends of a business- the manufacturer side and the consumer side. 
+The manufacturer can use the system to register shops and service centers that are 
+authorized to trade and handle their products. This allows for a more controlled ecosystem 
+that helps in quality assurance and customer satisfaction. The consumers can make use of 
+the system to look up their product warranties and even extend their warranty coverage. In 
+addition, this system also allows exclusive access for the enlisted consumers to directly 
+purchase products through the website that makes the whole process effortless and easy. 
+Offline purchases can also be updated by the authorized sellers to the system so that the 
+consumer can keep track of all the purchases made both offline and online. The main 
+objective of this project is to put forward a platform that can help manufacturers and end 
+consumers to seamlessly shop, keep track of what they have shopped, claim warranties for 
+what they have shopped and for the manufacturers, this helps to optimize business 
+operations, improve efficiency in manufacturing and productions.
+
