@@ -1,0 +1,9 @@
+$num="9446563005";
+$msg="hai...how r u";
+
+
+echo "<script language='javascript'> var win = window.open(' http://api.msg91.com/api/sendhttp.php?sender=MSGIND&route=4&mobiles=$num&authkey=210117AV55PTINds5ad33578&country=91&message=$msg ',  'width=100,height=100,left=375,top=330','_blank');
+           setTimeout(function(){
+                win.close()
+            }, 6000);</script>";
+
