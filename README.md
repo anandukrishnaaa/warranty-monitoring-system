@@ -5,6 +5,13 @@ Warranty Monitoring System (WMS) aims to create an easy and accessible platform 
 
 ## Project Screenshots
 
+![image](https://user-images.githubusercontent.com/76850547/214457019-250691e4-9003-4bc8-9e95-6993ea8d1b66.png)
+
+![image](https://user-images.githubusercontent.com/76850547/214457068-cf2220c5-a17a-4ce5-a0d8-8a9f29b378e1.png)
+
+![image](https://user-images.githubusercontent.com/76850547/214457150-5c05a041-4c65-4c9f-bdf8-981c84103d3a.png)
+
+![image](https://user-images.githubusercontent.com/76850547/214457233-9df85586-8933-470b-b0bf-b750736294c5.png)
 
 
 
